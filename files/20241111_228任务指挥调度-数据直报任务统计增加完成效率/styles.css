@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u1780_img {
+#u1773_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:1840px;
   height:871px;
 }
-#u1780 {
+#u1773 {
   border-width:0px;
   position:absolute;
   left:64px;
@@ -33,20 +33,20 @@
   height:871px;
   display:flex;
 }
-#u1780 .text {
+#u1773 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1780_text {
+#u1773_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1781_div {
+#u1774_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -64,7 +64,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1781 {
+#u1774 {
   border-width:0px;
   position:absolute;
   left:946px;
@@ -73,19 +73,19 @@
   height:52px;
   display:flex;
 }
-#u1781 .text {
+#u1774 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1781_text {
+#u1774_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1782_div {
+#u1775_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -103,7 +103,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1782 {
+#u1775 {
   border-width:0px;
   position:absolute;
   left:936px;
@@ -112,19 +112,19 @@
   height:52px;
   display:flex;
 }
-#u1782 .text {
+#u1775 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1782_text {
+#u1775_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1783_div {
+#u1776_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -139,7 +139,7 @@
   -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
 }
-#u1783 {
+#u1776 {
   border-width:0px;
   position:absolute;
   left:64px;
@@ -148,14 +148,14 @@
   height:84px;
   display:flex;
 }
-#u1783 .text {
+#u1776 .text {
   position:absolute;
   align-self:flex-start;
   padding:10px 10px 10px 10px;
   box-sizing:border-box;
   width:100%;
 }
-#u1783_text {
+#u1776_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

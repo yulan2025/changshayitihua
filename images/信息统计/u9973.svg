@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="38px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -1427 -237 )">
-    <path d="M 1427 237  L 1467 237  L 1467 275  L 1427 275  L 1427 237  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
-    <path d="M 1430 240  L 1464 240  L 1464 272  L 1430 272  L 1430 240  " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-    <path d="M 1450.65 248.4  C 1449.054 248.4  1447.8 247.146  1447.8 245.55  C 1447.8 243.954  1449.054 242.7  1450.65 242.7  C 1452.246 242.7  1453.5 243.954  1453.5 245.55  C 1453.5 247.146  1452.246 248.4  1450.65 248.4  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
-    <path d="M 1431 271  L 1431 254.5  L 1439 247  L 1450.2 253.9  L 1456.6 251.5  L 1463 253.9  L 1463 271  L 1431 271  " fill-rule="nonzero" fill="#169bd5" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="9px" height="9px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -1701 -1425 )">
+    <path d="M 1705.5 1425  C 1708.02 1425  1710 1426.98  1710 1429.5  C 1710 1432.02  1708.02 1434  1705.5 1434  C 1702.98 1434  1701 1432.02  1701 1429.5  C 1701 1426.98  1702.98 1425  1705.5 1425  Z " fill-rule="nonzero" fill="#36cbcb" stroke="none" />
   </g>
 </svg>
